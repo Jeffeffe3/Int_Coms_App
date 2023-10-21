@@ -31,6 +31,18 @@ username varchar,
 password varchar
 );
 
+Create Table tbl_Tickets(
+TicketID varchar,
+CreateDate datetime,
+LastUpdated datetime,
+CreatedBy varchar,
+Assignee varchar,
+AssigneeDept varchar,
+"Description" varchar,
+Resolved varchar
+);
+
 Drop Table tbl_Company;
 Drop Table tbl_Contact;
 Drop Table tbl_Staff;
+Drop Table tbl_Tickets;

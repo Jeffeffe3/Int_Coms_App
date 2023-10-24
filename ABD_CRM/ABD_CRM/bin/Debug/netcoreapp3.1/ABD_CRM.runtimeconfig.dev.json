@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nish3\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nish3\\.nuget\\packages",
+      "C:\\Users\\nish3\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ]
+  }
+}

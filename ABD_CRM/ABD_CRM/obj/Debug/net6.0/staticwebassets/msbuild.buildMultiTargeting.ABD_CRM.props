@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ABD_CRM.props" />
+</Project>

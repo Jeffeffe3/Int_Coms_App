@@ -10,7 +10,6 @@
  username varchar,
  password varchar*/
         string staffID;
-        int permissionLevel;
         string staffName,staffPhone,staffDepartment,staffEmail,staffUsername,staffPass;
 
 

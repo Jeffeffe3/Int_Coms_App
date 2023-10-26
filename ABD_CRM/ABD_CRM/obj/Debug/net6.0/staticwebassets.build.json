@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HFMgQKp+Z/CAXCZZbsHO36yTd+QHUoa/lnSCiK+2jpE=",
+  "Hash": "GgMvW4253bXF24/Ac2e8YW4zNOV2UlT5mKKDXEfo/Vc=",
   "Source": "ABD_CRM",
   "BasePath": "_content/ABD_CRM",
   "Mode": "Default",
@@ -17,7 +17,7 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\css\\site.css",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -34,7 +34,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\favicon.ico",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -51,7 +51,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\js\\site.js",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -68,7 +68,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -85,7 +85,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -102,7 +102,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -119,7 +119,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -136,7 +136,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -153,7 +153,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -170,7 +170,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -187,7 +187,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -204,7 +204,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -221,7 +221,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -238,7 +238,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -255,7 +255,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -272,7 +272,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -289,7 +289,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -306,7 +306,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -323,7 +323,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -340,7 +340,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -357,7 +357,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -374,7 +374,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -391,7 +391,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -408,7 +408,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -425,7 +425,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -442,7 +442,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -459,7 +459,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -476,7 +476,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -493,7 +493,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -510,7 +510,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -527,7 +527,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -544,7 +544,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -561,7 +561,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -578,7 +578,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -595,7 +595,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",
@@ -612,7 +612,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ABD_CRM",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\wwwroot\\",

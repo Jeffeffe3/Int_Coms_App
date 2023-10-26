@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\ABD_CRM.csproj": {}
+    "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\ABD_CRM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\ABD_CRM.csproj": {
+    "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\ABD_CRM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\ABD_CRM.csproj",
+        "projectUniqueName": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\ABD_CRM.csproj",
         "projectName": "ABD_CRM",
-        "projectPath": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\ABD_CRM.csproj",
+        "projectPath": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\ABD_CRM.csproj",
         "packagesPath": "C:\\Users\\nish3\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nish3\\source\\repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\obj\\",
+        "outputPath": "C:\\Users\\nish3\\Source\\Repos\\Int_Coms_App\\ABD_CRM\\ABD_CRM\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\nish3\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
@@ -70,6 +70,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.13, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.16, )"
             }
           },
           "imports": [

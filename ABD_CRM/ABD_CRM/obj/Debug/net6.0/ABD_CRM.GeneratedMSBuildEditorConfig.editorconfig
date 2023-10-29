@@ -9,11 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ABD_CRM
 build_property.RootNamespace = ABD_CRM
-build_property.ProjectDir = C:\Users\nish3\source\repos\Int_Coms_App\ABD_CRM\ABD_CRM\
+build_property.ProjectDir = C:\Users\nish3\Source\Repos\Int_Coms_App\ABD_CRM\ABD_CRM\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\nish3\source\repos\Int_Coms_App\ABD_CRM\ABD_CRM
+build_property.MSBuildProjectDirectory = C:\Users\nish3\Source\Repos\Int_Coms_App\ABD_CRM\ABD_CRM
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/nish3/Source/Repos/Int_Coms_App/ABD_CRM/ABD_CRM/Views/Home/Index.cshtml]

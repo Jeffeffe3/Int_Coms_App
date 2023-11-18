@@ -11,9 +11,9 @@ public partial class TblContact
 
     public DateTime? LastUpdated { get; set; }
 
-    public int UserId { get; set; }
+    public int ContactId { get; set; }
 
-    public string Name { get; set; }
+    public string ContactName { get; set; }
 
     public string Position { get; set; }
 

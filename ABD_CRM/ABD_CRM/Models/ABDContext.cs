@@ -4,17 +4,16 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ABD_CRM.Models;
 
-public partial class ABD_Context : DbContext
+public partial class ABDContext : DbContext
 {
-    public ABD_Context()
+    public ABDContext()
     {
     }
 
-    public ABD_Context(DbContextOptions<ABD_Context> options)
+    public ABDContext(DbContextOptions<ABDContext> options)
         : base(options)
     {
     }
-
 
     public virtual DbSet<TblCompany> TblCompanies { get; set; }
 
@@ -24,29 +23,27 @@ public partial class ABD_Context : DbContext
 
     public virtual DbSet<TblTicket> TblTickets { get; set; }
 
-
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=NISH33L\\SQLEXPRESS;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False");
+        => optionsBuilder.UseSqlServer("Data Source=NISH33L\\SQLEXPRESS;Initial Catalog=CRM_DB;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-       
-
         modelBuilder.Entity<TblCompany>(entity =>
         {
-            entity.HasKey(e => e.CompanyId).HasName("PK__tbl_Comp__5F5D1932187CAF4B");
+            entity.HasKey(e => e.CompanyId).HasName("PK__tbl_Comp__5F5D193281345454");
 
             entity.ToTable("tbl_Company");
 
             entity.Property(e => e.CompanyId)
                 .ValueGeneratedNever()
                 .HasColumnName("Company_ID");
-            entity.Property(e => e.Address)
-                .HasMaxLength(1)
-                .IsUnicode(false);
+            entity.Property(e => e.CompanyAddress)
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .HasColumnName("Company_Address");
             entity.Property(e => e.CompanyName)
-                .HasMaxLength(25)
+                .HasMaxLength(50)
                 .IsUnicode(false)
                 .HasColumnName("Company_Name");
             entity.Property(e => e.CreateDate)
@@ -54,28 +51,32 @@ public partial class ABD_Context : DbContext
                 .HasColumnName("Create_Date");
             entity.Property(e => e.CreatedById).HasColumnName("Created_By_ID");
             entity.Property(e => e.DpName)
-                .HasMaxLength(1)
+                .HasMaxLength(50)
                 .IsUnicode(false)
                 .HasColumnName("DP_Name");
             entity.Property(e => e.LastUpdated)
                 .HasColumnType("datetime")
                 .HasColumnName("Last_Updated");
             entity.Property(e => e.PhoneNum)
-                .HasMaxLength(1)
+                .HasMaxLength(50)
                 .IsUnicode(false)
                 .HasColumnName("Phone_Num");
         });
 
         modelBuilder.Entity<TblContact>(entity =>
         {
-            entity.HasKey(e => e.UserId).HasName("PK__tbl_Cont__206D9190B4B3D96C");
+            entity.HasKey(e => e.ContactId).HasName("PK__tbl_Cont__82ACC1CDAB26E04A");
 
             entity.ToTable("tbl_Contact");
 
-            entity.Property(e => e.UserId)
+            entity.Property(e => e.ContactId)
                 .ValueGeneratedNever()
-                .HasColumnName("User_ID");
+                .HasColumnName("Contact_ID");
             entity.Property(e => e.CompanyId).HasColumnName("Company_ID");
+            entity.Property(e => e.ContactName)
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .HasColumnName("Contact_Name");
             entity.Property(e => e.CreateDate)
                 .HasColumnType("datetime")
                 .HasColumnName("Create_Date");
@@ -83,21 +84,18 @@ public partial class ABD_Context : DbContext
             entity.Property(e => e.LastUpdated)
                 .HasColumnType("datetime")
                 .HasColumnName("Last_Updated");
-            entity.Property(e => e.Name)
-                .HasMaxLength(1)
-                .IsUnicode(false);
             entity.Property(e => e.Position)
-                .HasMaxLength(1)
+                .HasMaxLength(50)
                 .IsUnicode(false);
 
             entity.HasOne(d => d.Company).WithMany(p => p.TblContacts)
                 .HasForeignKey(d => d.CompanyId)
-                .HasConstraintName("FK__tbl_Conta__Compa__3AA1AEB8");
+                .HasConstraintName("FK__tbl_Conta__Compa__4D94879B");
         });
 
         modelBuilder.Entity<TblStaff>(entity =>
         {
-            entity.HasKey(e => e.SUserId).HasName("PK__tbl_Staf__66D6D1C1A10E75FA");
+            entity.HasKey(e => e.SUserId).HasName("PK__tbl_Staf__66D6D1C1AF8EA491");
 
             entity.ToTable("tbl_Staff");
 
@@ -105,24 +103,25 @@ public partial class ABD_Context : DbContext
                 .ValueGeneratedNever()
                 .HasColumnName("S_User_ID");
             entity.Property(e => e.Department)
-                .HasMaxLength(1)
+                .HasMaxLength(50)
                 .IsUnicode(false);
             entity.Property(e => e.Email)
-                .HasMaxLength(1)
+                .HasMaxLength(50)
                 .IsUnicode(false);
-            entity.Property(e => e.Name)
-                .HasMaxLength(1)
-                .IsUnicode(false);
-            entity.Property(e => e.Password)
-                .HasMaxLength(1)
-                .IsUnicode(false)
-                .HasColumnName("password");
             entity.Property(e => e.PhoneNumber)
-                .HasMaxLength(1)
+                .HasMaxLength(50)
                 .IsUnicode(false)
                 .HasColumnName("Phone_Number");
-            entity.Property(e => e.Username)
+            entity.Property(e => e.StaffName)
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .HasColumnName("Staff_Name");
+            entity.Property(e => e.StaffPassword)
                 .HasMaxLength(1)
+                .IsUnicode(false)
+                .HasColumnName("Staff_Password");
+            entity.Property(e => e.Username)
+                .HasMaxLength(50)
                 .IsUnicode(false)
                 .HasColumnName("username");
         });
@@ -134,29 +133,32 @@ public partial class ABD_Context : DbContext
                 .ToTable("tbl_Tickets");
 
             entity.Property(e => e.Assignee)
-                .HasMaxLength(1)
+                .HasMaxLength(50)
                 .IsUnicode(false);
             entity.Property(e => e.AssigneeDept)
-                .HasMaxLength(1)
+                .HasMaxLength(50)
                 .IsUnicode(false);
-            entity.Property(e => e.CreateDate).HasColumnType("datetime");
+            entity.Property(e => e.CreateDate)
+                .HasColumnType("datetime")
+                .HasColumnName("Create_Date");
             entity.Property(e => e.CreatedBy)
-                .HasMaxLength(1)
+                .HasMaxLength(50)
                 .IsUnicode(false);
-            entity.Property(e => e.Description)
-                .HasMaxLength(1)
-                .IsUnicode(false);
-            entity.Property(e => e.LastUpdated).HasColumnType("datetime");
+            entity.Property(e => e.LastUpdated)
+                .HasColumnType("datetime")
+                .HasColumnName("Last_Updated");
             entity.Property(e => e.Resolved)
-                .HasMaxLength(1)
+                .HasMaxLength(50)
                 .IsUnicode(false);
-            entity.Property(e => e.TicketId)
-                .HasMaxLength(1)
+            entity.Property(e => e.TicketDescription)
+                .HasMaxLength(50)
                 .IsUnicode(false)
-                .HasColumnName("TicketID");
+                .HasColumnName("Ticket_Description");
+            entity.Property(e => e.TicketId)
+                .HasMaxLength(50)
+                .IsUnicode(false)
+                .HasColumnName("Ticket_ID");
         });
-
-       
 
         OnModelCreatingPartial(modelBuilder);
     }

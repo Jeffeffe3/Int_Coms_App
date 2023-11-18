@@ -17,7 +17,7 @@ public partial class TblTicket
 
     public string AssigneeDept { get; set; }
 
-    public string Description { get; set; }
+    public string TicketDescription { get; set; }
 
     public string Resolved { get; set; }
 }

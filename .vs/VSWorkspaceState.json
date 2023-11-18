@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ABD_CRM",
+    "\\ABD_CRM\\ABD_CRM",
+    "\\ABD_CRM\\ABD_CRM\\Models"
   ],
-  "SelectedNode": "\\ABD_CRM.sln",
+  "SelectedNode": "\\ABD_CRM\\ABD_CRM\\Models\\ErrorViewModel.cs",
   "PreviewInSolutionExplorer": false
 }

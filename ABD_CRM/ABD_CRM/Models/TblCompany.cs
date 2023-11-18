@@ -15,7 +15,7 @@ public partial class TblCompany
 
     public string CompanyName { get; set; }
 
-    public string Address { get; set; }
+    public string CompanyAddress { get; set; }
 
     public string PhoneNum { get; set; }
 
